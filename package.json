@@ -1,0 +1,20 @@
+{
+  "name": "learning-playwright",
+  "version": "1.0.0",
+  "description": "<!-- Local host --> <!-- http://localhost:2221 -->",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roasted-oolong/learning-playwright.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roasted-oolong/learning-playwright/issues"
+  },
+  "homepage": "https://github.com/roasted-oolong/learning-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1"
+  }
+}
