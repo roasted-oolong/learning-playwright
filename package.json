@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "<!-- Local host --> <!-- http://localhost:2221 -->",
   "main": "app.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/roasted-oolong/learning-playwright.git"
